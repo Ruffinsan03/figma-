@@ -1,0 +1,24 @@
+
+
+.button  {
+    
+        
+        display: flex;
+        flex-direction: row;
+        float: left;
+        width: 100px;
+        padding: 12px;
+        border: 1px solid rgb(73, 251, 3);
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-transform: uppercase;
+        background-image: url('images/pacman.jpg');
+        background: rgb(226, 135, 206);
+        background: -moz-linear-gradient(top, rgb(226, 135, 206) 0%, rgb(73, 251, 3)100%);
+        background: -webkit-linear-gradient(top,  rgb(226, 135, 206)0%,rgb(73, 251, 3) 100%);
+        background: linear-gradient(top,  rgb(226, 135, 206) 0%, rgb(73, 251, 3)3 100%);
+        font-size: 14px;
+        text-align: center;
+        border-radius: 40px;  
+        
+    }      
